@@ -105,6 +105,7 @@ as the "best guess", or estimate, for the population parameter.
 
 Suppose we were interested in the population mean. What would be natural
 point estimate to use?
+the mean 
 
 
 | Quantity           | Parameter  | Statistic   |
@@ -117,6 +118,8 @@ point estimate to use?
 
 
 What is the downside to using point estimates?
+downside of using point estimates is that it is hard to be accurate, a better 
+way would be to use confidence intervals 
 
 ## Confidence intervals
 
