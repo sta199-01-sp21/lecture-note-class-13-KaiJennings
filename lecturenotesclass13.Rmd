@@ -231,6 +231,8 @@ population %>%
 Did everyone get the same value? If fact, each time you sample (run the above
 code chunk) you will most likely get a slightly different mean. (Please ignore impossible values.)
 
+No, there are different values. 
+
 The mean is not unique to this phenomenon. There will be variability for
 all of the sample statistics we'll be using to produce confidence intervals.
 
